@@ -4,6 +4,7 @@ title:  "Mono omnis"
 date:   2015-08-10 21:44:35
 categories: jekyll update
 featured: true
+tags: code inspiration
 ---
 ## Primum cessastis sumus hoc unum gemino est
 

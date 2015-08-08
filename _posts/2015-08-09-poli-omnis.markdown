@@ -3,6 +3,7 @@ layout: post
 title:  "Poli omnis"
 date:   2015-08-10 21:44:35
 categories: jekyll update
+tags: snippet
 ---
 ## Primum cessastis sumus hoc unum gemino est
 

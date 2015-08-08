@@ -4,6 +4,7 @@ title:  "Et omnis"
 date:   2015-08-07 21:44:35
 categories: jekyll update
 featured: true
+tags: design
 ---
 ## Primum cessastis sumus hoc unum gemino est
 
