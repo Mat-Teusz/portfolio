@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Mono omnis"
+title:  "Poli omnis"
 date:   2015-08-10 21:44:35
-categories: jekyll update
-featured: true
-tags: code inspiration
+categories: blog
+tags: snippet
 ---
 ## Primum cessastis sumus hoc unum gemino est
 

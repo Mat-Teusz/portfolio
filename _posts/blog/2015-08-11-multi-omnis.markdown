@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Et omnis"
-date:   2015-08-07 21:44:35
-categories: jekyll update
-featured: true
-tags: design
+title:  "Multi omnis"
+date:   2015-08-11 21:44:35
+categories: blog
+tags: design code
 ---
 ## Primum cessastis sumus hoc unum gemino est
 

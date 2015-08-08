@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Poli omnis"
-date:   2015-08-10 21:44:35
-categories: jekyll update
-tags: snippet
+title:  "Nido omnis"
+date:   2015-08-08 21:44:35
+categories: blog
+tags: layout design
 ---
 ## Primum cessastis sumus hoc unum gemino est
 

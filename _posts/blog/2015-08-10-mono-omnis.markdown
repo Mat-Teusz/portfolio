@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Non omnis"
-date:   2015-08-12 21:44:35
-categories: jekyll update
-tags: inspiration
+title:  "Mono omnis"
+date:   2015-08-10 21:44:35
+categories: blog
+featured: true
+tags: code inspiration
 ---
 ## Primum cessastis sumus hoc unum gemino est
 
