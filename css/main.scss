@@ -27,7 +27,10 @@ $brand-color:      #fe5f55;
 $blue-color: #92b5bd;
 $yellow-color: #ede24e;
 $red-color: #df6d59;
+$red2-color: #D64066;
 $purple-color: #6b2339;
+$orange-color: #FF5803;
+$violet-color: #A51993;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -60,5 +63,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "gradient-bar"
 ;

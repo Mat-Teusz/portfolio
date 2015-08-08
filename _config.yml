@@ -1,5 +1,5 @@
 # Site settings
-title: Design Portfolio
+title: My Design Portfolio
 email: mateusz.wodyk@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   UI/UX specialist and game-fan focused on research of e-commerce and non-commerce webpages/mobile applications and designing prototypes.
@@ -7,7 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: mateuszwodyk
 github_username: Mat-Teusz
-google_username: mateuszwodyk
+google_username: 114502144040825816739
+pinterest_username: mateuszwodyk
+linkedin_username: pub/mateusz-wodyk/96/21/780
 
 permalink: /:categories/:title
 
@@ -23,5 +25,4 @@ links:
 
 # Build settings
 markdown: kramdown
-sass:
-	style: :compressed
+

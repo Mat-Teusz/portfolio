@@ -1,0 +1,18 @@
+.gradient-bar {
+	position:relative;
+
+	&:after {
+		content: "";
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:0.5em;
+		background:linear-gradient(to right,
+									$blue-color 0%, $blue-color 25%,
+									$violet-color 25%, $violet-color 50%,
+									$red2-color 50%, $red2-color 75%,
+									$orange-color 75%, $orange-color 100%
+									);
+	}
+}
