@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Poli omnis"
+title:  "Medical project"
 date:   2015-08-10 21:44:35
 categories: projects
+featured_image: "images/medical.png"
 tags: snippet
 ---
 ## Primum cessastis sumus hoc unum gemino est

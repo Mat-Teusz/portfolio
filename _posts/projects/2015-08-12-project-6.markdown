@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Non omnis"
+title:  "Accounting project"
 date:   2015-08-12 21:44:35
 categories: projects
+featured_image: "images/needs.png"
 tags: inspiration
 ---
 ## Primum cessastis sumus hoc unum gemino est

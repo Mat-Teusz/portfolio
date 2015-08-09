@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Et omnis"
+title:  "PFM project"
 date:   2015-08-07 21:44:35
 categories: projects
 featured: true
+featured_image: "images/pfm.png"
 tags: design
 ---
 ## Primum cessastis sumus hoc unum gemino est
