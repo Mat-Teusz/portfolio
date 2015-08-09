@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
+featured_image: "/images/me.jpg"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+***
+UI/UX specialist and game-fan responsible for research and studies of prototypes and e-commerce and non-commerce webpages or mobile applications. He was an intern in **Samsung** and in **Artegence/Efigence**, where he started full-time job. Now he's at **HCore** company where's working in accordance to agile methodology with team of front-end and back-end developers on sophisticated RTB analytic tool. This year he’s finished studies of Neurocognitive Psychology and Designing Interaction Human-Technology. He’s an enthusiast of internet technology, User Centred Design and data mining. Also he thinks that connecting perspectives: **informatics** with **psychological** is very fruitful and indenspensable. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+***

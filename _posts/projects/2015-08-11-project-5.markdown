@@ -3,7 +3,7 @@ layout: post
 title:  "Online courses project"
 date:   2015-08-11 21:44:35
 categories: projects
-featured_image: "images/course.png"
+featured_image: "/images/course.png"
 tags: design code
 ---
 ## Primum cessastis sumus hoc unum gemino est

@@ -4,9 +4,9 @@ title:  "Mono omnis"
 date:   2015-08-10 21:44:35
 categories: blog
 featured: true
-tags: code inspiration
+tags: snippet code
 ---
-## Primum cessastis sumus hoc unum gemino est
+## Primum cessastis sumus hoc unum gemino est 
 
 Lorem markdownum Antiphates iacet ius potest sua ibi en fecundique exstimulata
 repulsa merum exilibus lugebat incepta manebant ut. Ait pectusque ait figuras
