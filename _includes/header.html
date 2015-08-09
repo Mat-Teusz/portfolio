@@ -2,7 +2,7 @@
   <ul>
     {% for link in site.links %}
       <li>
-        <a href="{{ link.url }}">{{ link.title }}</a>
+        <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
       </li>
     {% endfor %}
   </ul>
@@ -10,7 +10,7 @@
 
 <header class="site-header gradient-bar">
 
-<h1 class="site-title mega"><a href="/">my design portfolio</a>
+<h1 class="site-title mega"><a href="{{ site.baseurl }}">my design portfolio</a>
   
 </h1>
  
