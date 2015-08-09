@@ -6,8 +6,6 @@ categories: blog
 featured: true
 tags: snippet code
 ---
-## Primum cessastis sumus hoc unum gemino est 
-
 Lorem markdownum Antiphates iacet ius potest sua ibi en fecundique exstimulata
 repulsa merum exilibus lugebat incepta manebant ut. Ait pectusque ait figuras
 illam *foret inplumes*, tam pando interea pro. Minimum boni rota Quirine, ipse,
